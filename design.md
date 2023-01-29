@@ -11,3 +11,5 @@ TODO - submit PR to fix json.
 switched to postgres to get arrays 
 
 Railway, good option for hosting
+
+https://www.twitch.tv/videos/1722190191
